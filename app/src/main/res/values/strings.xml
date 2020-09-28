@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">azGeoQuiz</string>
+    <string name="question_australia">q1: Canberra is the capital of Australia.</string>
+    <string name="question_oceans">q 2 :The Pacific Ocean is larger than the Atlantic Ocean.</string>
+    <string name="question_mideast">q 3 :The Suez Canal connects the Red Sea and the Indian Ocean.</string>
+    <string name="question_africa">q 4 :The source of the Nile River is in Egypt.</string>
+    <string name="question_americas">q 5 :The Amazon River is the longest river in the Americas.</string>
+    <string name="question_asia">q 6 : Lake Baikal is the world\'s oldest and deepest freshwater lake.</string>
+    <string name="question_7">q 7 : Goldfish only have a memory of three seconds</string>
+    <string name="question_8">q 8 : The capital of Libya is Benghazi</string>
+    <string name="question_9">q 9 : Roger Federer has won the most Wimbledon titles of any player</string>
+    <string name="question_10">q 10 : An octopus has five hearts</string>
+    <string name="question_11">q 11 : Brazil is the only country in the Americas to have the official language of Portuguese</string>
+    <string name="question_12">q 12 : The Great Wall of China is visible from space</string>
+    <string name="question_13">q 13 : Flying in an aeroplane is statistically safer than driving in a car</string>
+    <string name="question_14">q 14 : The currency of France is the Franc</string>
+    <string name="question_15">q 15 : A metre is further than a yard</string>
+    <string name="question_16">q 16 : Nicolas Cage and Michael Jackson both married the same woman</string>
+    <string name="question_17">q 17 : The highest mountain in England is Ben Nevis</string>
+    <string name="question_18">q 18 : The Channel Tunnel is the longest rail tunnel in the world</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+</resources>
